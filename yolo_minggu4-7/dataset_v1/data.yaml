@@ -1,1 +1,8 @@
-
+path: C:/Users/ASUS/Desktop/gesture-tangan/dataset_v1
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: fist
+  1: palm
+  2: thumbs_up
